@@ -1,7 +1,5 @@
 # Default ignored files
 /shelf/
-/workspace.xml
-/misc.xml
-/modules.xml
-/PullUpProgression.iml
-/inspectionProfiles/profiles_settings.xml
+*.xml
+*.iml
+*.xlsx
